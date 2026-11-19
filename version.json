@@ -1,0 +1,8 @@
+{
+  "version": "4.7.0",
+  "zip": "FruitRadar-vente.zip",
+  "sha256": "9e67a34fff0943422201d6bda53db15ccb434bc7b0c046fb565d2316dd9e4751",
+  "taille": 1497147,
+  "notes": "Sécurité de l'abonnement : le Metaprompt est maintenant remis par le serveur FruitRadar à chaque session, avec ta clé. Rien ne change dans l'utilisation, il faut seulement internet au lancement d'une vidéo.",
+  "date": "2026-11-19"
+}
