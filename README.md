@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.7.0** (19/11/2026)
+Dernière version : **4.7.1** (19/11/2026)
 
-> Sécurité de l'abonnement : le Metaprompt est maintenant remis par le serveur FruitRadar à chaque session, avec ta clé. Rien ne change dans l'utilisation, il faut seulement internet au lancement d'une vidéo.
+> Essai gratuit du Radar pendant 3 jours, sans carte. L'automatisation des vidéos est réservée à l'abonnement (25,99 €/mois). Une clé fonctionne sur un ordinateur.
 
-## [⬇ Télécharger FruitRadar 4.7.0](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.7.1](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 

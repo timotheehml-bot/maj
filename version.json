@@ -1,8 +1,8 @@
 {
-  "version": "4.7.0",
+  "version": "4.7.1",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "9e67a34fff0943422201d6bda53db15ccb434bc7b0c046fb565d2316dd9e4751",
-  "taille": 1497147,
-  "notes": "Sécurité de l'abonnement : le Metaprompt est maintenant remis par le serveur FruitRadar à chaque session, avec ta clé. Rien ne change dans l'utilisation, il faut seulement internet au lancement d'une vidéo.",
+  "sha256": "f21a5a41eb48cfd04edcd9964536e0787b88ae344eb1a942534df7f5388cf000",
+  "taille": 1498865,
+  "notes": "Essai gratuit du Radar pendant 3 jours, sans carte. L'automatisation des vidéos est réservée à l'abonnement (25,99 €/mois). Une clé fonctionne sur un ordinateur.",
   "date": "2026-11-19"
 }
