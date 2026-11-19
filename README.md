@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.7.3** (19/11/2026)
+Dernière version : **4.8.0** (19/11/2026)
 
-> L'adresse de support contact@fruitradar.fr est affichée dans l'écran de la clé et l'onglet Support.
+> Ta clé est maintenant vérifiée par le serveur FruitRadar : une clé marche sur un seul ordinateur, et le message est clair si elle est en pause ou retirée. Pour changer d'ordinateur : Support → Ma licence → Retirer la clé.
 
-## [⬇ Télécharger FruitRadar 4.7.3](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.0](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 
