@@ -1,8 +1,8 @@
 {
-  "version": "4.7.2",
+  "version": "4.7.3",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "2ad4ace31d09d4e5a95fda85bfec2f4d8c3645aa43a28e9a16fed128305834af",
-  "taille": 1499459,
-  "notes": "Reproduire une vidéo : le téléchargement TikTok réessaie par une seconde voie, et un bouton « Donner le fichier de la vidéo » permet de fournir la vidéo à la main.",
+  "sha256": "ad1b69e3ae3544c5bae7de9d53a2dcc20fe4d574dc3baa328cf382146ed6295c",
+  "taille": 1499562,
+  "notes": "L'adresse de support contact@fruitradar.fr est affichée dans l'écran de la clé et l'onglet Support.",
   "date": "2026-11-19"
 }

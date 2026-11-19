@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.7.2** (19/11/2026)
+Dernière version : **4.7.3** (19/11/2026)
 
-> Reproduire une vidéo : le téléchargement TikTok réessaie par une seconde voie, et un bouton « Donner le fichier de la vidéo » permet de fournir la vidéo à la main.
+> L'adresse de support contact@fruitradar.fr est affichée dans l'écran de la clé et l'onglet Support.
 
-## [⬇ Télécharger FruitRadar 4.7.2](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.7.3](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 
