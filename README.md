@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.0** (19/11/2026)
+Dernière version : **4.8.1** (19/11/2026)
 
-> Ta clé est maintenant vérifiée par le serveur FruitRadar : une clé marche sur un seul ordinateur, et le message est clair si elle est en pause ou retirée. Pour changer d'ordinateur : Support → Ma licence → Retirer la clé.
+> L'abonnement se paie maintenant par Stripe, et « Gérer mon abonnement » (Support → Ma licence) ouvre ton espace abonné. L'essai gratuit du Radar se demande sur fruitradar.fr.
 
-## [⬇ Télécharger FruitRadar 4.8.0](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.1](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 

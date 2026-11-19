@@ -1,8 +1,8 @@
 {
-  "version": "4.8.0",
+  "version": "4.8.1",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "dd92ca59b14071a6df4c0b82648a42e15a3f4b8926e05135b608674fd26122cd",
-  "taille": 1502410,
-  "notes": "Ta clé est maintenant vérifiée par le serveur FruitRadar : une clé marche sur un seul ordinateur, et le message est clair si elle est en pause ou retirée. Pour changer d'ordinateur : Support → Ma licence → Retirer la clé.",
+  "sha256": "e8adb5612b25f8616d959f7e435132d3a834e040ba37571925943d348516263f",
+  "taille": 1502552,
+  "notes": "L'abonnement se paie maintenant par Stripe, et « Gérer mon abonnement » (Support → Ma licence) ouvre ton espace abonné. L'essai gratuit du Radar se demande sur fruitradar.fr.",
   "date": "2026-11-19"
 }
