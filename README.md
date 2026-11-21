@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.5** (21/11/2026)
+Dernière version : **4.8.6** (22/11/2026)
 
-> Essai : le temps qui reste s'affiche en jours, heures puis minutes, en direct. Vidéos en plein écran sans recadrage, zoom sur les images générées, un seul clip lu à la fois. Automatisation : la fenêtre ne repasse plus devant à chaque onglet, CapCut part toujours d'un projet neuf, fondus au noir et remontée des légendes TikTok plus fiables, 8 min de patience pour l'export CapCut. Et aussi : le mot fort s'écrit dans le décor (case décochée : aucun texte, même pour une suite), et ta bibliothèque CapCut est vidée avant chaque montage.
+> Clés : messages plus clairs quand une clé d'essai a déjà servi sur cet ordinateur, ou quand une clé a changé d'ordinateur plus de 2 fois en un mois. Rappel de la 4.8.5 : le temps d'essai qui reste en direct, vidéos en plein écran sans recadrage, et une automatisation plus fiable (fenêtre, CapCut, légendes TikTok).
 
-## [⬇ Télécharger FruitRadar 4.8.5](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.6](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 

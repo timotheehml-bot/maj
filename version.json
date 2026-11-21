@@ -1,8 +1,8 @@
 {
-  "version": "4.8.5",
+  "version": "4.8.6",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "d9a7bcbfeaf9e40f6086a5016d2df38474c90f6c1cdafe90bb502e9fce6b91f5",
-  "taille": 1510191,
-  "notes": "Essai : le temps qui reste s'affiche en jours, heures puis minutes, en direct. Vidéos en plein écran sans recadrage, zoom sur les images générées, un seul clip lu à la fois. Automatisation : la fenêtre ne repasse plus devant à chaque onglet, CapCut part toujours d'un projet neuf, fondus au noir et remontée des légendes TikTok plus fiables, 8 min de patience pour l'export CapCut. Et aussi : le mot fort s'écrit dans le décor (case décochée : aucun texte, même pour une suite), et ta bibliothèque CapCut est vidée avant chaque montage.",
-  "date": "2026-11-21"
+  "sha256": "fb5478071833b1ce57efa46c03fb8d8f08b301889c65ec1310d66ce15b2e4b5e",
+  "taille": 1510599,
+  "notes": "Clés : messages plus clairs quand une clé d'essai a déjà servi sur cet ordinateur, ou quand une clé a changé d'ordinateur plus de 2 fois en un mois. Rappel de la 4.8.5 : le temps d'essai qui reste en direct, vidéos en plein écran sans recadrage, et une automatisation plus fiable (fenêtre, CapCut, légendes TikTok).",
+  "date": "2026-11-22"
 }
