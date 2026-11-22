@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.11** (22/11/2026)
+Dernière version : **4.8.12** (22/11/2026)
 
-> Les clips Grok arrivent sans que tu restes sur la page : FruitRadar rafraîchit lui-même la page du clip quand Grok ne l'affiche pas. Fin d'automatisation plus fiable : vidéo exportée de CapCut récupérée même quand l'antivirus la garde un moment, « Déposer la vidéo exportée » qui marche à tous les coups (bouton ou glisser-déposer) avec la suite automatique vers TikTok Studio, anciens fichiers CapCut vraiment supprimés. Grok : « 75 % utilisés » ne bloque plus rien, un quota épuisé met en pause avec un son et la raison.
+> Les clips Grok se téléchargent tout seuls, même fenêtre réduite ou une autre application devant : FruitRadar les prend directement à leur adresse dès qu'ils sont prêts. « Mettre de côté » et « Reprendre » se voient tout de suite, et la page ne reste plus figée. Fin d'automatisation plus fiable : export CapCut récupéré, « Déposer la vidéo exportée » qui marche à tous les coups avec la suite automatique vers TikTok Studio, anciens fichiers CapCut vraiment supprimés, Grok à 75 % qui ne bloque plus.
 
-## [⬇ Télécharger FruitRadar 4.8.11](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.12](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 

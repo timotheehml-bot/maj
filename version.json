@@ -1,8 +1,8 @@
 {
-  "version": "4.8.11",
+  "version": "4.8.12",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "cdb35975c7795021e2f343a570b73e409dcd3ab8569a80d11a8e9b193faaf86d",
-  "taille": 1517242,
-  "notes": "Les clips Grok arrivent sans que tu restes sur la page : FruitRadar rafraîchit lui-même la page du clip quand Grok ne l'affiche pas. Fin d'automatisation plus fiable : vidéo exportée de CapCut récupérée même quand l'antivirus la garde un moment, « Déposer la vidéo exportée » qui marche à tous les coups (bouton ou glisser-déposer) avec la suite automatique vers TikTok Studio, anciens fichiers CapCut vraiment supprimés. Grok : « 75 % utilisés » ne bloque plus rien, un quota épuisé met en pause avec un son et la raison.",
+  "sha256": "2b1648a4d696bc2d0dfb2d3ecb06e73b4b977ed0d12deacf5cc744e6bcb5613e",
+  "taille": 1519440,
+  "notes": "Les clips Grok se téléchargent tout seuls, même fenêtre réduite ou une autre application devant : FruitRadar les prend directement à leur adresse dès qu'ils sont prêts. « Mettre de côté » et « Reprendre » se voient tout de suite, et la page ne reste plus figée. Fin d'automatisation plus fiable : export CapCut récupéré, « Déposer la vidéo exportée » qui marche à tous les coups avec la suite automatique vers TikTok Studio, anciens fichiers CapCut vraiment supprimés, Grok à 75 % qui ne bloque plus.",
   "date": "2026-11-22"
 }
