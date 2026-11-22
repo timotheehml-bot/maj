@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.6** (22/11/2026)
+Dernière version : **4.8.9** (22/11/2026)
 
-> Clés : messages plus clairs quand une clé d'essai a déjà servi sur cet ordinateur, ou quand une clé a changé d'ordinateur plus de 2 fois en un mois. Rappel de la 4.8.5 : le temps d'essai qui reste en direct, vidéos en plein écran sans recadrage, et une automatisation plus fiable (fenêtre, CapCut, légendes TikTok).
+> Fin d'automatisation plus fiable : la vidéo exportée de CapCut est récupérée même quand l'antivirus la garde un moment ; « Déposer la vidéo exportée » marche à tous les coups (bouton ou glisser-déposer) et la suite part toute seule vers TikTok Studio. Grok : « 75 % utilisés » ne bloque plus rien, et un quota épuisé met en pause avec un son et la raison.
 
-## [⬇ Télécharger FruitRadar 4.8.6](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.9](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 

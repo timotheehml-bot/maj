@@ -1,8 +1,8 @@
 {
-  "version": "4.8.6",
+  "version": "4.8.9",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "fb5478071833b1ce57efa46c03fb8d8f08b301889c65ec1310d66ce15b2e4b5e",
-  "taille": 1510599,
-  "notes": "Clés : messages plus clairs quand une clé d'essai a déjà servi sur cet ordinateur, ou quand une clé a changé d'ordinateur plus de 2 fois en un mois. Rappel de la 4.8.5 : le temps d'essai qui reste en direct, vidéos en plein écran sans recadrage, et une automatisation plus fiable (fenêtre, CapCut, légendes TikTok).",
+  "sha256": "291b34cfb7a39176b3655b34ee4f40ef7880674b54e5b6c61ca150bc4ad5baef",
+  "taille": 1516119,
+  "notes": "Fin d'automatisation plus fiable : la vidéo exportée de CapCut est récupérée même quand l'antivirus la garde un moment ; « Déposer la vidéo exportée » marche à tous les coups (bouton ou glisser-déposer) et la suite part toute seule vers TikTok Studio. Grok : « 75 % utilisés » ne bloque plus rien, et un quota épuisé met en pause avec un son et la raison.",
   "date": "2026-11-22"
 }
