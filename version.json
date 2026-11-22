@@ -1,8 +1,8 @@
 {
-  "version": "4.8.9",
+  "version": "4.8.10",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "291b34cfb7a39176b3655b34ee4f40ef7880674b54e5b6c61ca150bc4ad5baef",
-  "taille": 1516119,
-  "notes": "Fin d'automatisation plus fiable : la vidéo exportée de CapCut est récupérée même quand l'antivirus la garde un moment ; « Déposer la vidéo exportée » marche à tous les coups (bouton ou glisser-déposer) et la suite part toute seule vers TikTok Studio. Grok : « 75 % utilisés » ne bloque plus rien, et un quota épuisé met en pause avec un son et la raison.",
+  "sha256": "3b339e226e36577e9b2cb1b9a3daab5b5d35ed32f7dc7c80cceecbfcab997007",
+  "taille": 1516735,
+  "notes": "Fin d'automatisation plus fiable : la vidéo exportée de CapCut est récupérée même quand l'antivirus la garde un moment ; « Déposer la vidéo exportée » marche à tous les coups (bouton ou glisser-déposer) et la suite part toute seule vers TikTok Studio ; les anciens fichiers de CapCut sont vraiment supprimés avant le montage. Grok : « 75 % utilisés » ne bloque plus rien, et un quota épuisé met en pause avec un son et la raison.",
   "date": "2026-11-22"
 }

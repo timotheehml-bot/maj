@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.9** (22/11/2026)
+Dernière version : **4.8.10** (22/11/2026)
 
-> Fin d'automatisation plus fiable : la vidéo exportée de CapCut est récupérée même quand l'antivirus la garde un moment ; « Déposer la vidéo exportée » marche à tous les coups (bouton ou glisser-déposer) et la suite part toute seule vers TikTok Studio. Grok : « 75 % utilisés » ne bloque plus rien, et un quota épuisé met en pause avec un son et la raison.
+> Fin d'automatisation plus fiable : la vidéo exportée de CapCut est récupérée même quand l'antivirus la garde un moment ; « Déposer la vidéo exportée » marche à tous les coups (bouton ou glisser-déposer) et la suite part toute seule vers TikTok Studio ; les anciens fichiers de CapCut sont vraiment supprimés avant le montage. Grok : « 75 % utilisés » ne bloque plus rien, et un quota épuisé met en pause avec un son et la raison.
 
-## [⬇ Télécharger FruitRadar 4.8.9](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.10](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 
