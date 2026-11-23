@@ -1,12 +1,12 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.14** (23/11/2026)
+Dernière version : **4.8.15** (23/11/2026)
 
-> Publication TikTok plus fiable : quand tout est prêt, le bouton « Publier » ne se bloque plus à tort sur « le compte n'est plus affiché ». FruitRadar relit maintenant ton compte connecté de façon fiable avant de publier, au lieu de le chercher dans le texte de la page.
+> Améliorations internes et stabilité. Rien ne change dans ton utilisation.
 
-## [⬇ Télécharger FruitRadar 4.8.14](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.15](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
-Fichier zip, 1,5 Mo.
+Fichier zip, 2,7 Mo.
 
 ## Installer la mise à jour (2 minutes)
 
