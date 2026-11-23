@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.20** (23/11/2026)
+Dernière version : **4.8.21** (23/11/2026)
 
-> Quand une promo est en cours, elle s'affiche aussi dans l'écran de clé.
+> Le test « Connexions aux sites » vérifie maintenant que tu es vraiment connecté à un compte sur chaque site.
 
-## [⬇ Télécharger FruitRadar 4.8.20](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.8.21](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
