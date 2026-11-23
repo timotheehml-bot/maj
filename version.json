@@ -1,8 +1,8 @@
 {
-  "version": "4.8.22",
+  "version": "4.8.23",
   "zip": "FruitRadar.zip",
-  "sha256": "3fb45bb20e20a922aac2c4fc4e29418cc8faaec1a43cd8f795295bfea8bd5ede",
-  "taille": 1531628,
-  "notes": "Les clips Grok se récupèrent de nouveau tout seuls, même fenêtre réduite ou en arrière-plan (Grok a changé la page de ses clips).",
+  "sha256": "17e8ec957c6b14c8e35147511be30f3149d213275b9877867696fd6cf6a5fb2e",
+  "taille": 1534551,
+  "notes": "La mise à jour en un clic passe mieux les antivirus, et si elle échoue, le panneau dit simplement pourquoi et donne 3 étapes claires pour la faire à la main.",
   "date": "2026-11-23"
 }

@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.22** (23/11/2026)
+Dernière version : **4.8.23** (23/11/2026)
 
-> Les clips Grok se récupèrent de nouveau tout seuls, même fenêtre réduite ou en arrière-plan (Grok a changé la page de ses clips).
+> La mise à jour en un clic passe mieux les antivirus, et si elle échoue, le panneau dit simplement pourquoi et donne 3 étapes claires pour la faire à la main.
 
-## [⬇ Télécharger FruitRadar 4.8.22](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.8.23](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
