@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.16** (23/11/2026)
+Dernière version : **4.8.17** (23/11/2026)
 
-> Correctif de stabilité. Rien ne change dans ton utilisation.
+> Le compte qui scanne se choisit maintenant au lancement d'un scan, fondu au noir et qualité Grok libre par défaut, interface allégée.
 
-## [⬇ Télécharger FruitRadar 4.8.16](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.17](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 

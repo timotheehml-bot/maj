@@ -1,8 +1,8 @@
 {
-  "version": "4.8.16",
+  "version": "4.8.17",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "99c6c7deb3107dfc605bd43f7cd5e32a7d553059fc1b1d3dd9f12fef4660a370",
-  "taille": 1521380,
-  "notes": "Correctif de stabilité. Rien ne change dans ton utilisation.",
+  "sha256": "052c691b230b06c107bde19f23a3c14e1438df627f9419212cc8576bb8bde488",
+  "taille": 1522092,
+  "notes": "Le compte qui scanne se choisit maintenant au lancement d'un scan, fondu au noir et qualité Grok libre par défaut, interface allégée.",
   "date": "2026-11-23"
 }
