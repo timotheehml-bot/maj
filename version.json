@@ -1,8 +1,8 @@
 {
-  "version": "4.8.21",
+  "version": "4.8.22",
   "zip": "FruitRadar.zip",
-  "sha256": "af54f3641843817c4936436e7559cd2d6066a8a45a069b0a435c24beb7106195",
-  "taille": 1529602,
-  "notes": "Le test « Connexions aux sites » vérifie maintenant que tu es vraiment connecté à un compte sur chaque site.",
+  "sha256": "3fb45bb20e20a922aac2c4fc4e29418cc8faaec1a43cd8f795295bfea8bd5ede",
+  "taille": 1531628,
+  "notes": "Les clips Grok se récupèrent de nouveau tout seuls, même fenêtre réduite ou en arrière-plan (Grok a changé la page de ses clips).",
   "date": "2026-11-23"
 }

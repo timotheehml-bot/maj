@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.21** (23/11/2026)
+Dernière version : **4.8.22** (23/11/2026)
 
-> Le test « Connexions aux sites » vérifie maintenant que tu es vraiment connecté à un compte sur chaque site.
+> Les clips Grok se récupèrent de nouveau tout seuls, même fenêtre réduite ou en arrière-plan (Grok a changé la page de ses clips).
 
-## [⬇ Télécharger FruitRadar 4.8.21](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.8.22](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
