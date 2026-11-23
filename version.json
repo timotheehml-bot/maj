@@ -1,8 +1,8 @@
 {
-  "version": "4.8.19",
+  "version": "4.8.20",
   "zip": "FruitRadar.zip",
-  "sha256": "af5692388e96268d4d0dd60440831da21003a10c3480e022d9be54cce7e23359",
-  "taille": 1527389,
-  "notes": "Correctif : le téléchargement n'est plus bloqué par certains antivirus.",
+  "sha256": "d9a9d498d6ed7cc78282063cffba73f1ee0501ec95f4758a54c387279450f303",
+  "taille": 1527969,
+  "notes": "Quand une promo est en cours, elle s'affiche aussi dans l'écran de clé.",
   "date": "2026-11-23"
 }

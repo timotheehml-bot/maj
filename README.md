@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.19** (23/11/2026)
+Dernière version : **4.8.20** (23/11/2026)
 
-> Correctif : le téléchargement n'est plus bloqué par certains antivirus.
+> Quand une promo est en cours, elle s'affiche aussi dans l'écran de clé.
 
-## [⬇ Télécharger FruitRadar 4.8.19](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.8.20](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
