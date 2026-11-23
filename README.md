@@ -1,12 +1,12 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.15** (23/11/2026)
+Dernière version : **4.8.16** (23/11/2026)
 
-> Améliorations internes et stabilité. Rien ne change dans ton utilisation.
+> Correctif de stabilité. Rien ne change dans ton utilisation.
 
-## [⬇ Télécharger FruitRadar 4.8.15](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.16](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
-Fichier zip, 2,7 Mo.
+Fichier zip, 1,5 Mo.
 
 ## Installer la mise à jour (2 minutes)
 

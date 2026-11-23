@@ -1,8 +1,8 @@
 {
-  "version": "4.8.15",
+  "version": "4.8.16",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "eb877f8dfe9b4d5a090083af15dfc745689ec3888ba6801cf52a5f52b7978166",
-  "taille": 2651579,
-  "notes": "Améliorations internes et stabilité. Rien ne change dans ton utilisation.",
+  "sha256": "99c6c7deb3107dfc605bd43f7cd5e32a7d553059fc1b1d3dd9f12fef4660a370",
+  "taille": 1521380,
+  "notes": "Correctif de stabilité. Rien ne change dans ton utilisation.",
   "date": "2026-11-23"
 }
