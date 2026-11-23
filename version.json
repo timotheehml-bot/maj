@@ -1,8 +1,8 @@
 {
-  "version": "4.8.13",
+  "version": "4.8.14",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "0fb522d420b7ba3da294a3e6a7e0bcf4d3aadae11f4afb6813cc3cbab3a1bf38",
-  "taille": 1520447,
-  "notes": "Les clips Grok se téléchargent tout seuls, même fenêtre réduite ou une autre application devant : FruitRadar les prend directement à leur adresse dès qu'ils sont prêts. « Mettre de côté » et « Reprendre » se voient tout de suite, et la page ne reste plus figée. Fin d'automatisation plus fiable : export CapCut récupéré, « Déposer la vidéo exportée » qui marche à tous les coups avec la suite automatique vers TikTok Studio, anciens fichiers CapCut vraiment supprimés, Grok à 75 % qui ne bloque plus.",
+  "sha256": "4dc0a1ac31b0b50afe3e79add445bf8c0d1d61fa9acd87dd46d55e947ee58a68",
+  "taille": 1521381,
+  "notes": "Publication TikTok plus fiable : quand tout est prêt, le bouton « Publier » ne se bloque plus à tort sur « le compte n'est plus affiché ». FruitRadar relit maintenant ton compte connecté de façon fiable avant de publier, au lieu de le chercher dans le texte de la page.",
   "date": "2026-11-23"
 }
