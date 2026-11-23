@@ -1,8 +1,8 @@
 {
-  "version": "4.8.17",
+  "version": "4.8.18",
   "zip": "FruitRadar-vente.zip",
-  "sha256": "052c691b230b06c107bde19f23a3c14e1438df627f9419212cc8576bb8bde488",
-  "taille": 1522092,
-  "notes": "Le compte qui scanne se choisit maintenant au lancement d'un scan, fondu au noir et qualité Grok libre par défaut, interface allégée.",
+  "sha256": "f94fc8003c3a69e1a5f3432f3c6b50ab9668f210c024dba896534488ccaf0f62",
+  "taille": 1527582,
+  "notes": "Tu peux modifier une histoire avant de la choisir (contexte, noms et apparence des personnages), et voir une miniature type pour chaque style de miniature.",
   "date": "2026-11-23"
 }

@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.17** (23/11/2026)
+Dernière version : **4.8.18** (23/11/2026)
 
-> Le compte qui scanne se choisit maintenant au lancement d'un scan, fondu au noir et qualité Grok libre par défaut, interface allégée.
+> Tu peux modifier une histoire avant de la choisir (contexte, noms et apparence des personnages), et voir une miniature type pour chaque style de miniature.
 
-## [⬇ Télécharger FruitRadar 4.8.17](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
+## [⬇ Télécharger FruitRadar 4.8.18](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar-vente.zip)
 
 Fichier zip, 1,5 Mo.
 
