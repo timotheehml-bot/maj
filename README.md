@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.23** (23/11/2026)
+Dernière version : **4.8.24** (24/11/2026)
 
-> La mise à jour en un clic passe mieux les antivirus, et si elle échoue, le panneau dit simplement pourquoi et donne 3 étapes claires pour la faire à la main.
+> Scans TikTok plus discrets : rythme plus lent et pauses régulières, et arrêt immédiat dès que TikTok affiche une vérification.
 
-## [⬇ Télécharger FruitRadar 4.8.23](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.8.24](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 

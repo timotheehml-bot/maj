@@ -1,8 +1,8 @@
 {
-  "version": "4.8.23",
+  "version": "4.8.24",
   "zip": "FruitRadar.zip",
-  "sha256": "17e8ec957c6b14c8e35147511be30f3149d213275b9877867696fd6cf6a5fb2e",
-  "taille": 1534551,
-  "notes": "La mise à jour en un clic passe mieux les antivirus, et si elle échoue, le panneau dit simplement pourquoi et donne 3 étapes claires pour la faire à la main.",
-  "date": "2026-11-23"
+  "sha256": "84c689ec03b3b8c802e85fc1e15ea72e889491f36165f5c89e05eaf44452bd64",
+  "taille": 1535292,
+  "notes": "Scans TikTok plus discrets : rythme plus lent et pauses régulières, et arrêt immédiat dès que TikTok affiche une vérification.",
+  "date": "2026-11-24"
 }
