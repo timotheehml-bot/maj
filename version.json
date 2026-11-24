@@ -1,8 +1,8 @@
 {
-  "version": "4.8.24",
+  "version": "4.8.25",
   "zip": "FruitRadar.zip",
-  "sha256": "84c689ec03b3b8c802e85fc1e15ea72e889491f36165f5c89e05eaf44452bd64",
-  "taille": 1535292,
-  "notes": "Scans TikTok plus discrets : rythme plus lent et pauses régulières, et arrêt immédiat dès que TikTok affiche une vérification.",
+  "sha256": "ff83e86a3da8fcc6b868adea0ba96eaffbbaca5c031121a7e9d9029acfca57cc",
+  "taille": 1535830,
+  "notes": "Nouveaux sons : une petite fanfare quand la vidéo est publiée sur TikTok, et un son qui descend à la moindre erreur.",
   "date": "2026-11-24"
 }

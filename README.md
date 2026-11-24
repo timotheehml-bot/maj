@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.24** (24/11/2026)
+Dernière version : **4.8.25** (24/11/2026)
 
-> Scans TikTok plus discrets : rythme plus lent et pauses régulières, et arrêt immédiat dès que TikTok affiche une vérification.
+> Nouveaux sons : une petite fanfare quand la vidéo est publiée sur TikTok, et un son qui descend à la moindre erreur.
 
-## [⬇ Télécharger FruitRadar 4.8.24](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.8.25](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
