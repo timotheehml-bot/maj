@@ -1,8 +1,8 @@
 {
-  "version": "4.8.25",
+  "version": "4.8.28",
   "zip": "FruitRadar.zip",
-  "sha256": "ff83e86a3da8fcc6b868adea0ba96eaffbbaca5c031121a7e9d9029acfca57cc",
-  "taille": 1535830,
-  "notes": "Nouveaux sons : une petite fanfare quand la vidéo est publiée sur TikTok, et un son qui descend à la moindre erreur.",
-  "date": "2026-11-24"
+  "sha256": "69748891ca9fbf54ca1123d1a9bea5502a777eda633769df54e50a5e35482331",
+  "taille": 1537468,
+  "notes": "Corrections : les nouveaux sons (publication, erreur) se jouent vraiment, « Arrêter » un scan répond tout de suite, et quelques détails d'affichage.",
+  "date": "2026-11-25"
 }
