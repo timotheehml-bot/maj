@@ -1,8 +1,8 @@
 {
-  "version": "4.8.28",
+  "version": "4.9.0",
   "zip": "FruitRadar.zip",
-  "sha256": "69748891ca9fbf54ca1123d1a9bea5502a777eda633769df54e50a5e35482331",
-  "taille": 1537468,
-  "notes": "Corrections : les nouveaux sons (publication, erreur) se jouent vraiment, « Arrêter » un scan répond tout de suite, et quelques détails d'affichage.",
+  "sha256": "16691922331956a66b09cda5ac5c73e0b521719aa61d7afd4176571d7ba17413",
+  "taille": 1542334,
+  "notes": "Nouveau : le Metaprompt V7, au choix avec la V6 dans « Nouvelle vidéo » (ton choix est gardé).\nCapCut : les fondus au noir se posent de nouveau sur tous les raccords.",
   "date": "2026-11-25"
 }

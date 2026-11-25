@@ -1,10 +1,11 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.8.28** (25/11/2026)
+Dernière version : **4.9.0** (25/11/2026)
 
-> Corrections : les nouveaux sons (publication, erreur) se jouent vraiment, « Arrêter » un scan répond tout de suite, et quelques détails d'affichage.
+> Nouveau : le Metaprompt V7, au choix avec la V6 dans « Nouvelle vidéo » (ton choix est gardé).
+CapCut : les fondus au noir se posent de nouveau sur tous les raccords.
 
-## [⬇ Télécharger FruitRadar 4.8.28](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.0](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
