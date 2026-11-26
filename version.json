@@ -1,8 +1,8 @@
 {
-  "version": "4.9.8",
+  "version": "4.9.14",
   "zip": "FruitRadar.zip",
-  "sha256": "b9bd9f8abacef1319fae891183b062b789075ed27efadbcd4c5b4fcf7e879e6c",
-  "taille": 1542478,
-  "notes": "Correction : dans CapCut, après avoir posé les fondus au noir sur tous les raccords, FruitRadar ne reclique plus sur chaque scène.",
+  "sha256": "3c57ada3ef820346ec4efc41dfc1e33fc0c0b68195cb659c9d9b65ef93f664d4",
+  "taille": 1538185,
+  "notes": "Correction : les voix ne se mélangent plus quand une scène avait une voix hors champ (derrière une porte, au téléphone). Ajout du son TikTok plus fiable. Code du Metaprompt V7 retiré.",
   "date": "2026-11-26"
 }

@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.9.8** (26/11/2026)
+Dernière version : **4.9.14** (26/11/2026)
 
-> Correction : dans CapCut, après avoir posé les fondus au noir sur tous les raccords, FruitRadar ne reclique plus sur chaque scène.
+> Correction : les voix ne se mélangent plus quand une scène avait une voix hors champ (derrière une porte, au téléphone). Ajout du son TikTok plus fiable. Code du Metaprompt V7 retiré.
 
-## [⬇ Télécharger FruitRadar 4.9.8](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.14](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
