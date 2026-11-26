@@ -1,12 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.9.6** (26/11/2026)
+Dernière version : **4.9.7** (26/11/2026)
 
-> Le Metaprompt V7 est retiré pour le moment : toutes les vidéos utilisent le V6.
-CapCut : les fondus au noir se posent sur tous les raccords.
-TikTok : le bouton « Générer » des légendes est cliqué de façon plus sûre.
+> Correction : Windows Defender pouvait bloquer l'installation de FruitRadar.
 
-## [⬇ Télécharger FruitRadar 4.9.6](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.7](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 

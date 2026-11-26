@@ -1,8 +1,8 @@
 {
-  "version": "4.9.6",
+  "version": "4.9.7",
   "zip": "FruitRadar.zip",
-  "sha256": "f58c8e0036144b83eb8c948f8f7634d834ba7fea7f91209693a58a46633dc5ff",
-  "taille": 1543378,
-  "notes": "Le Metaprompt V7 est retiré pour le moment : toutes les vidéos utilisent le V6.\nCapCut : les fondus au noir se posent sur tous les raccords.\nTikTok : le bouton « Générer » des légendes est cliqué de façon plus sûre.",
+  "sha256": "c5d8f0ad389985a8cbbc98e943629b983ae9aaf51136c7cc6db899a1c4716083",
+  "taille": 1542306,
+  "notes": "Correction : Windows Defender pouvait bloquer l'installation de FruitRadar.",
   "date": "2026-11-26"
 }
