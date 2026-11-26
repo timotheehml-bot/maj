@@ -1,8 +1,8 @@
 {
-  "version": "4.9.0",
+  "version": "4.9.6",
   "zip": "FruitRadar.zip",
-  "sha256": "16691922331956a66b09cda5ac5c73e0b521719aa61d7afd4176571d7ba17413",
-  "taille": 1542334,
-  "notes": "Nouveau : le Metaprompt V7, au choix avec la V6 dans « Nouvelle vidéo » (ton choix est gardé).\nCapCut : les fondus au noir se posent de nouveau sur tous les raccords.",
-  "date": "2026-11-25"
+  "sha256": "f58c8e0036144b83eb8c948f8f7634d834ba7fea7f91209693a58a46633dc5ff",
+  "taille": 1543378,
+  "notes": "Le Metaprompt V7 est retiré pour le moment : toutes les vidéos utilisent le V6.\nCapCut : les fondus au noir se posent sur tous les raccords.\nTikTok : le bouton « Générer » des légendes est cliqué de façon plus sûre.",
+  "date": "2026-11-26"
 }

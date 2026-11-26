@@ -1,11 +1,12 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.9.0** (25/11/2026)
+Dernière version : **4.9.6** (26/11/2026)
 
-> Nouveau : le Metaprompt V7, au choix avec la V6 dans « Nouvelle vidéo » (ton choix est gardé).
-CapCut : les fondus au noir se posent de nouveau sur tous les raccords.
+> Le Metaprompt V7 est retiré pour le moment : toutes les vidéos utilisent le V6.
+CapCut : les fondus au noir se posent sur tous les raccords.
+TikTok : le bouton « Générer » des légendes est cliqué de façon plus sûre.
 
-## [⬇ Télécharger FruitRadar 4.9.0](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.6](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
