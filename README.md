@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.9.7** (26/11/2026)
+Dernière version : **4.9.8** (26/11/2026)
 
-> Correction : Windows Defender pouvait bloquer l'installation de FruitRadar.
+> Correction : dans CapCut, après avoir posé les fondus au noir sur tous les raccords, FruitRadar ne reclique plus sur chaque scène.
 
-## [⬇ Télécharger FruitRadar 4.9.7](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.8](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 

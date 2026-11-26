@@ -1,8 +1,8 @@
 {
-  "version": "4.9.7",
+  "version": "4.9.8",
   "zip": "FruitRadar.zip",
-  "sha256": "c5d8f0ad389985a8cbbc98e943629b983ae9aaf51136c7cc6db899a1c4716083",
-  "taille": 1542306,
-  "notes": "Correction : Windows Defender pouvait bloquer l'installation de FruitRadar.",
+  "sha256": "b9bd9f8abacef1319fae891183b062b789075ed27efadbcd4c5b4fcf7e879e6c",
+  "taille": 1542478,
+  "notes": "Correction : dans CapCut, après avoir posé les fondus au noir sur tous les raccords, FruitRadar ne reclique plus sur chaque scène.",
   "date": "2026-11-26"
 }
