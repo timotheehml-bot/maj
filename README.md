@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.9.19** (27/11/2026)
+Dernière version : **4.9.20** (27/11/2026)
 
-> Grok : si ton compte n'a pas la page Imagine (grok.com/imagine ouvre le chat), FruitRadar fait maintenant les clips dans le chat de Grok : il tape /video, règle le format 9:16 et la durée, joint l'image de la scène, colle le prompt, puis télécharge le clip comme avant (une discussion Grok par scène). Écriture des vidéos remise exactement comme en 4.8.29 (dialogues et langue corrigés). Un ancien métaprompt importé, autre que le V6, est retiré automatiquement.
+> Dialogues : les personnages parlent uniquement en français, avec des voix françaises naturelles, et les répliques sont raccourcies pour ne plus être coupées à la fin des clips (Metaprompt V6.2). Grok sans la page Imagine : les clips se font dans le chat de Grok (/video), puis sont téléchargés comme avant.
 
-## [⬇ Télécharger FruitRadar 4.9.19](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.20](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
