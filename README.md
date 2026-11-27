@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.9.14** (26/11/2026)
+Dernière version : **4.9.19** (27/11/2026)
 
-> Correction : les voix ne se mélangent plus quand une scène avait une voix hors champ (derrière une porte, au téléphone). Ajout du son TikTok plus fiable. Code du Metaprompt V7 retiré.
+> Grok : si ton compte n'a pas la page Imagine (grok.com/imagine ouvre le chat), FruitRadar fait maintenant les clips dans le chat de Grok : il tape /video, règle le format 9:16 et la durée, joint l'image de la scène, colle le prompt, puis télécharge le clip comme avant (une discussion Grok par scène). Écriture des vidéos remise exactement comme en 4.8.29 (dialogues et langue corrigés). Un ancien métaprompt importé, autre que le V6, est retiré automatiquement.
 
-## [⬇ Télécharger FruitRadar 4.9.14](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.19](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,5 Mo.
 
