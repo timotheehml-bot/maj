@@ -1,10 +1,10 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.9.27** (28/11/2026)
+Dernière version : **4.9.28** (28/11/2026)
 
-> Les clips passent maintenant par ton Bot Grok : toutes les scènes partent d'un seul onglet, l'une après l'autre sans attendre, et FruitRadar range chaque clip à sa scène. Chaque scène précise le format TikTok 9:16, sa durée et la qualité (720p par défaut, réglable). Si le Bot ne marche pas, FruitRadar passe tout seul par le chat de Grok, puis par la page Imagine. Nouveau : « Tester » Grok dans Connexions aux sites vérifie que ton Bot est prêt, quel que soit son nom (ou sans nom), et sinon te dit comment créer ton Grok Bot et à quoi il sert. Chaque site affiche aussi l'abonnement minimum pour faire les vidéos (Grok Premium, ChatGPT Go, le reste gratuit). Correctif : l'erreur « la durée affichée est « ? » » dans le chat de Grok.
+> Les clips passent maintenant par ton Bot Grok : toutes les scènes partent d'un seul onglet, l'une après l'autre sans attendre, et FruitRadar range chaque clip à sa scène. Chaque scène précise le format TikTok 9:16, sa durée et la qualité (720p par défaut, réglable). Si le Bot ne marche pas, FruitRadar passe tout seul par le chat de Grok, puis par la page Imagine. Nouveau : « Tester » Grok dans Connexions aux sites vérifie que ton Bot est prêt, quel que soit son nom (ou sans nom), et sinon te dit comment créer ton Grok Bot et à quoi il sert. Chaque site affiche aussi l'abonnement minimum pour faire les vidéos (Claude Pro, ChatGPT Go, Grok Premium, le reste gratuit), avec de petites cases à déplier pour les explications. Correctif : l'erreur « la durée affichée est « ? » » dans le chat de Grok.
 
-## [⬇ Télécharger FruitRadar 4.9.27](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.28](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
 Fichier zip, 1,6 Mo.
 
