@@ -1,8 +1,8 @@
 {
-  "version": "4.9.20",
+  "version": "4.9.26",
   "zip": "FruitRadar.zip",
-  "sha256": "760f57df4dba703826817dd21aeae9665538152d1a97b90b4cf6241ac1e486a1",
-  "taille": 1543429,
-  "notes": "Dialogues : les personnages parlent uniquement en français, avec des voix françaises naturelles, et les répliques sont raccourcies pour ne plus être coupées à la fin des clips (Metaprompt V6.2). Grok sans la page Imagine : les clips se font dans le chat de Grok (/video), puis sont téléchargés comme avant.",
-  "date": "2026-11-27"
+  "sha256": "011c81d724a103b3662f92d69028ff3782eef3338f5de08433c62c66e2862549",
+  "taille": 1561283,
+  "notes": "Les clips passent maintenant par ton Bot Grok : toutes les scènes partent d'un seul onglet, l'une après l'autre sans attendre, et FruitRadar range chaque clip à sa scène. Chaque scène précise le format TikTok 9:16, sa durée (6, 10 ou 15 s) et la qualité (720p par défaut, réglable : 480p, 720p ou 1080p). Si le Bot ne marche pas, FruitRadar passe tout seul par le chat de Grok, puis par la page Imagine. À la toute première ouverture de ton Bot, FruitRadar s'arrête avec un son pour que tu lui donnes un nom, puis tu cliques sur Reprendre.",
+  "date": "2026-11-28"
 }

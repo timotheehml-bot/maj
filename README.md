@@ -1,12 +1,12 @@
 # FruitRadar · mise à jour
 
-Dernière version : **4.9.20** (27/11/2026)
+Dernière version : **4.9.26** (28/11/2026)
 
-> Dialogues : les personnages parlent uniquement en français, avec des voix françaises naturelles, et les répliques sont raccourcies pour ne plus être coupées à la fin des clips (Metaprompt V6.2). Grok sans la page Imagine : les clips se font dans le chat de Grok (/video), puis sont téléchargés comme avant.
+> Les clips passent maintenant par ton Bot Grok : toutes les scènes partent d'un seul onglet, l'une après l'autre sans attendre, et FruitRadar range chaque clip à sa scène. Chaque scène précise le format TikTok 9:16, sa durée (6, 10 ou 15 s) et la qualité (720p par défaut, réglable : 480p, 720p ou 1080p). Si le Bot ne marche pas, FruitRadar passe tout seul par le chat de Grok, puis par la page Imagine. À la toute première ouverture de ton Bot, FruitRadar s'arrête avec un son pour que tu lui donnes un nom, puis tu cliques sur Reprendre.
 
-## [⬇ Télécharger FruitRadar 4.9.20](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
+## [⬇ Télécharger FruitRadar 4.9.26](https://github.com/timotheehml-bot/maj/raw/main/FruitRadar.zip)
 
-Fichier zip, 1,5 Mo.
+Fichier zip, 1,6 Mo.
 
 ## Installer la mise à jour (2 minutes)
 
